@@ -102,7 +102,7 @@ Me chamo Kallel Vieira, tenho 26 anos e sou formado em Ciência da Computação 
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Kallel-19&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
+    src="github-readme-stats-six-iota-yrvtx2p3o4.vercel.app/api/top-langs/?username=Kallel-19&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
 </p>
 
